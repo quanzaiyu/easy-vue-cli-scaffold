@@ -1,4 +1,4 @@
-# vue-cli3.0 init
+# easy-vue-cli-scaffold
 
 ## Features
 
